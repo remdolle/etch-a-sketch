@@ -1,0 +1,17 @@
+body {
+    background-color: fuchsia;
+}
+
+#grille {
+    background-color: white;
+    margin : 100px auto;
+    display : flex;
+    flex-wrap: wrap;
+}
+
+
+.element {
+    border : solid;
+    border-width: 1px;
+
+}
